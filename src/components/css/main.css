@@ -1,0 +1,22 @@
+@import url('https://fonts.googleapis.com/css2?family=Gugi&family=Jua&display=swap');
+*{margin: 0;padding: 0;text-decoration: none;list-style: none;border: 0;box-sizing: border-box;outline:none;color: inherit;font-family: inherit;}
+html, body{width: 100%;font-size: 10px;height: 100%;background: #ddd;color: #444;font-family: 굴림;}
+#root{width: 400px;height: 700px;background: #fff;position: absolute;top: 50%;left: 50%;transform: translate(-50%, -50%);}
+.inner{width: 90%;margin: 0 auto;height: 100%;}
+.logo {display: inline-block;margin: 0 auto;position: relative;}
+.logo svg{position: absolute;right: 0;}
+.logo h1{position: absolute;top: 0;left: 0;}
+.logo h1{color: #2D2E3D;user-select: none;cursor: pointer;display: inline;font-family: 'Gugi', cursive;}
+.header_logo{font-size: 3rem;}
+.signin_logo{font-size: 4.8rem;}
+.splash_logo{font-size: 6rem;}
+.splash_link{width: 180px;height: 75px;}
+.splash_link svg{width: 65px;height: 65px;padding: 5px;}
+.splash_link h1 {height: 75px;}
+.signin_link{width: 150px;height: 60px;}
+.signin_link svg{width: 50px;height: 50px;}
+.st0{fill: #2D2E3D !important;}
+.st1{fill: #6fa66f !important;}
+button{cursor: pointer;background: none;}
+.handle{color: #000 !important;}
+.hidden{display: none;}

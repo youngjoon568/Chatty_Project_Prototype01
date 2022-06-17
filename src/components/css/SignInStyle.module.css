@@ -1,0 +1,20 @@
+.SignIn{padding-top: 80px;height: 100%;}
+.SignIn_header{width: 100%;height: 60px;}
+.SignIn_main{padding-top: 40px;}
+.SignIn_form{width: 100%;}
+.SignIn_input {width: 100%;position: relative;height: 40px;font-size: 1.6rem;color: #aaa;}
+.SignIn_form .SignIn_input:first-child{margin-bottom: 40px;}
+.SignIn_input label{display: block;width: 100%;height: 100%;}
+.input_text{position: absolute;width: 100%;height: 40px;line-height: 40px;}
+.input_text svg {font-size: 2rem;margin-right: 5px;position: absolute;top: 50%;transform: translateY(-50%);}
+.input_text span {user-select: none;user-select: none;position: absolute;padding-left: 25px;}
+.SignIn_input input{height: 40px;border-bottom: 1px solid #aaa;width: 100%;padding: 0 25px;position: absolute;z-index: 1;background: none;color: #444;}
+.SignIn_btn{width: 100%;height: 55px;margin-top: 40px;font-size: 1.8rem;background: #f4f4f4;color: #aaa;border-radius: 3px;}
+.google_btn{width: 100%;height: 55px;margin-top: 20px;font-size: 1.8rem;background: #fff;border-radius: 3px;border: 1px solid #444;color: #444;position: relative;}
+.google_btn svg{font-size: 2.4rem;position: absolute;top: 50%;transform: translateY(-50%);left: 5%;}
+.sign_btn{font-size: 1.4rem;color: #aaa;text-align: center;padding-top: 20px;padding-bottom: 25px;border-bottom: 1px solid #ddd;}
+.SignIn_find{width: 100%;display: flex;justify-content: space-around;padding-top: 20px;}
+.sign_btn button{background: none;font-size: 1.4rem;text-decoration:underline;}
+.find_btn {display: inline-block;padding: 20px;font-size: 1.6rem;border-radius: 3px;background: #f0f0f0;}
+.signin_service{margin-top: 30px;text-align: center;font-size: 1.2rem;color: #aaa;}
+/* 2D2E3D */
